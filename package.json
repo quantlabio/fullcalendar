@@ -26,7 +26,7 @@
     "jquery": "2 - 3",
     "moment": "^2.9.0"
   },
-  "version": "3.4.0",
+  "version": "3.4.1",
   "releaseDate": "2017-08-02",
   "devDependencies": {
     "bootstrap": "^3.3.7",
